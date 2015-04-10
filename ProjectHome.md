@@ -1,0 +1,1 @@
+Lesser framework for a simple and fast animation of the canvas and handling mouse events on the drawing area.
